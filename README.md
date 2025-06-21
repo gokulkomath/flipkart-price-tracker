@@ -36,3 +36,9 @@ To keep track of price changes continuously, you should run the script at regula
 
 - On **Linux/macOS**, use a **cron job** to schedule `python price-tracker.py --start` periodically (e.g., every hour or once a day).
 - On **Windows**, use **Task Scheduler** to achieve the same.
+
+### 🛒 Product URL
+
+The **product URL** refers to the web address you see **when you open a specific product page on Flipkart**.  
+Make sure to copy the full URL from your browser's address bar to use in the setup.
+  
