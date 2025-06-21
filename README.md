@@ -28,3 +28,11 @@ To enable Telegram alerts for price drops:
 2. Follow the instructions on that page to get your **CallMeBot Telegram API link**.
    - You’ll need to send a message to `@CallMeBot` on Telegram and follow the setup steps.
 3. During script setup (`--set`), paste your **API URL** when prompted:
+
+
+### ⏰ Automate Price Tracking
+
+To keep track of price changes continuously, you should run the script at regular intervals.
+
+- On **Linux/macOS**, use a **cron job** to schedule `python price-tracker.py --start` periodically (e.g., every hour or once a day).
+- On **Windows**, use **Task Scheduler** to achieve the same.
