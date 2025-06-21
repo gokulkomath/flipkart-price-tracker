@@ -11,6 +11,7 @@ A simple command-line Python tool to monitor the price of a Flipkart product and
 - ✅ Send Telegram notifications using **CallMeBot** when a new lowest price is detected.
 - ✅ View price history.
 - ✅ Reset data with a single command.
+- ✅ **No Flipkart login required.**
 
 ---
 
